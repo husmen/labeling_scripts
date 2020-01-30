@@ -1,2 +1,2 @@
 # labeling_scripts
-some scripts for changing dataset labeling formats between tools and frameworks
+Conversion scripts between different image annotation and data labeling formats, mainly for use with YOLO.
